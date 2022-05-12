@@ -12,4 +12,4 @@
 * ![Webpack](https://img.shields.io/badge/Webpack-orange)
 ---
 ## Контакты
-![[telegram](https://t.me/NikolaiNikola1)](https://img.shields.io/badge/Telegram-black??style=for-the-badge&logo=telegram)
+[![telegram](https://img.shields.io/badge/Telegram-black??style=for-the-badge&logo=telegram)](https://t.me/NikolaiNikola1)
