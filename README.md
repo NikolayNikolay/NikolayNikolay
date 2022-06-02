@@ -13,7 +13,7 @@
 * ![JS](https://img.shields.io/badge/JS-yellow)
 * ![Git,GitHub](https://img.shields.io/badge/Git,GitHub-black)
 * ![Webpack](https://img.shields.io/badge/Webpack-orange)
-* ![Vue.js](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+* ![Vue.js](https://img.shields.io/static/v1?&message=Vue.js&color=<COLOR>)
 ---
 ## Контакты
 [![telegram](https://img.shields.io/badge/Telegram-black??style=for-the-badge&logo=telegram)](https://t.me/NikolaiNikola1)
