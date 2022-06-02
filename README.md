@@ -14,6 +14,7 @@
 * ![Git,GitHub](https://img.shields.io/badge/Git,GitHub-black)
 * ![Webpack](https://img.shields.io/badge/Webpack-orange)
 * ![Vue.js](https://img.shields.io/badge/Vue.js-<COLOR>)
+* ![Bootstrap](https://img.shields.io/badge/Bootstrap-<COLOR>)
 ---
 ## Контакты
 [![telegram](https://img.shields.io/badge/Telegram-black??style=for-the-badge&logo=telegram)](https://t.me/NikolaiNikola1)
